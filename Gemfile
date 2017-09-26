@@ -15,7 +15,7 @@ gem 'turbolinks', '~> 5'
 gem 'jbuilder', '~> 2.5'
 gem 'jquery-rails'
 gem 'clearance'
-# Windows does not include zoneinfo files, so bundle the tzinfo-data gem
+gem 'paperclip'
 
 group :development, :test do
   gem 'byebug', platforms: [:mri, :mingw, :x64_mingw]
